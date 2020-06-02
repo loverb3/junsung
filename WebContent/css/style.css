@@ -1,6 +1,6 @@
 /* @charset "EUC-KR"; */
 
-@charset "UTF-8 "; /* 기본 설정: 페이지 전체 */ * {
+@charset "UTF-8 "; /* 기본 설정: 페이지 전체 */ {
 	font-family: 'Viga', sans-serif;
 	margin: 0;
 	padding: 0;
@@ -15,7 +15,7 @@ header {
 	align-items: center;
 	max-width: 1500px;
 	margin-left: auto;
-	margin-right: auto;
+	margin-right: auto; 
 }
 
 .logo_container {
@@ -41,7 +41,7 @@ header {
 .menu_container {
 	font-size: 20px;
 	align-content: flex-start;
-	margin-left: 50px;
+	margin-left: 25px;
 }
 
 .menu_container .menu, .login {
@@ -70,8 +70,8 @@ header {
 .menu_1, .menu_2, .menu_3 {
 	display: block;
 	cursor: pointer;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 25px;
+	margin-right: 25px;
 }
 
 .menu_1_content, .menu_2_content, .menu_3_content {
@@ -91,6 +91,11 @@ header {
 	margin-right: 10px;
 }
 
+.hero-section {
+	padding: 50px 0;
+	border-botton: 1px solid #cfe3dc;
+}
+*/
 .footer_container {
 	padding-top: 15px;
 	padding-bottom: 15px;

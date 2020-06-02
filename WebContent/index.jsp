@@ -21,7 +21,7 @@
 	<header>
 		<div class="header_container">
 			<div class="logo_container">
-				<a href="./index.jsp">Home</a>
+				<a href="./index.jsp"><img src="img/INC_Junsung_logo.gif" width=200></a>
 			</div>
 			<div class="nav_container" id="nav_menu">
 				<div class="menu_container">
@@ -56,6 +56,7 @@
 			</div>
 		</div>
 	</header>
+
 	<div class="main_container">
 		<div class="conA">
 			<div class="slide img1"></div>
@@ -104,8 +105,9 @@
 	</div>
 	<footer>
 		<div class="footer_container">
-			<div class="footA">Inc. JunSung</div>
-			<div class="footB">Copyright © inc. JunSung All Rights Reserved.</div>
+			<div class="footA">Inc. Jun Sung</div>
+			<div class="footB">주소 : 대전광역시 오정로51번길, 28-2 / Tel : 042)535-3565 / Fax : 042)537-3565 / e-mail : js35651@naver.com</div>
+			<div class="footB">Copyright © inc. Jun Sung All Rights Reserved.</div>
 		</div>
 	</footer>
 </body>
